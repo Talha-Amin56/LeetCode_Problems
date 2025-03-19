@@ -8,7 +8,6 @@ This repository contains solutions to various Leetcode problems across different
 - **Optimized Code**: Focus on clarity and efficiency in the solutions provided.
 - **Real-World Use Cases**: Solutions designed with scalability and application in mind.
 
-
 ## Contents
 
 - **Array Problems**
